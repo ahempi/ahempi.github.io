@@ -14,4 +14,6 @@ media_subpath: '/posts/20180809'
 
 my experience with Linux is small. I don't know wery much about Linux but I know something about it like: flashing it on a USB stick and how to boot Linux and how to install it.
 
-# how was my first run and a komplish
+# how was my first run and how I komplished it
+
+I woned to make my own Minecraft server for me and my friends, because I was yousing aternos to host my servers The problem with aternos is that it isn't 24/7 and installing mods on it is painful to that is a 2 GB ram limit. A friend told me about casaos it is a docker based local hosting application. The problem with that was that it wasn't working well for me and my father needed to help me. I found out a nother local hosting program and it was a whole Operating system based on Linux but I had a another problem with the os(Operating system) the program was called yonohost. The problem was that important apps weren't working so I installed a nother Operating system Lubuntu it's like Ubuntu bul light. I wanted to do everything from scratch and it works now but I need to Setup a VPN so I can control my servers remotely.
